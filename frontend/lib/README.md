@@ -1,0 +1,1 @@
+Prisma client wrapper. Generate client with `npx prisma generate`.

@@ -1,0 +1,11 @@
+{
+  "name": "saas-vercel-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "python-analysis"
+  ],
+  "scripts": {
+    "dev": "cd frontend && npm run dev"
+  }
+}
